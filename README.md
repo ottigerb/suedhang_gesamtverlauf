@@ -23,4 +23,7 @@ https://github.com/ottigerb/suedhang_gesamtverlauf/blob/master/original_gesamtve
 https://github.com/ottigerb/suedhang_gesamtverlauf/blob/master/original_gesamtverlauf_v2.sql#L51
 => Dies erschliesst sich mir ebenfalls nicht.
 
- 
+
+## ELDAT
+![ELDAT](doc/ELDAT.png?raw=true "ELDAT")
+
